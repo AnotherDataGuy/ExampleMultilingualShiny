@@ -1,0 +1,24 @@
+---
+title: "ExampleMultilingualShiny"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{ExampleMultilingualShiny}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(ExampleMultilingualShiny)
+```
+
+Resources :  
+- [golemshinyi18n - Colin Fay](https://github.com/ColinFay/golemexamples/tree/master/golemshinyi18n)
+- [Introduction to shiny.i18n - Appsilon](https://appsilon.github.io/shiny.i18n/articles/basics.html)  
+- [Example of live change app - Appsilon](https://github.com/Appsilon/shiny.i18n/blob/main/examples/live_language_change/browser_app.R)

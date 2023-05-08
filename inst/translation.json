@@ -1,0 +1,8 @@
+{
+  "languages": ["en", "fr"],
+  "translation": [
+      {"en": "Homepage", "fr": "Accueil"},
+      {"en": "This is a title", "fr": "Ceci est un titre"}
+      ],
+  "cultural_date_format": "%d-%m-%Y"
+}
